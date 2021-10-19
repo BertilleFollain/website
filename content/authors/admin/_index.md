@@ -1,6 +1,7 @@
 ---
 title: Bertille Follain
 role: PhD student
+avatar_filename: avatar.jpeg
 bio: ""
 interests:
   - Stochastic Optimisation
@@ -28,7 +29,7 @@ education:
     - course: MASt in Mathematical Statistics
       institution: University of Cambridge
       year: 2021
-    - course: Diplome d'ingenieur X2017
+    - course: Diplôme d'Ingénieur X2017
       institution: Ecole polytechnique
       year: 2020
 email: ""
