@@ -12,11 +12,6 @@ weight: 130
 title: Contact
 subtitle:
 
-design:
-  spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["10px", "0", "10px", "0"]
-
 content:
   # Automatically link email and phone or display as text?
   autolink: true
@@ -32,4 +27,7 @@ content:
   
 design:
   columns: '2'
+  spacing:
+  # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["10px", "0", "10px", "0"]
 ---
