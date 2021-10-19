@@ -12,15 +12,6 @@ weight: 90
 title: Publications
 subtitle: ''
 
-design:
-  spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["10px", "0", "10px", "0"]
-   background:
-    color: 'navy'
-    # Text color (true=light, false=dark, or remove for the dynamic theme color). 
-    text_color_light: false
-
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
@@ -44,5 +35,12 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 4
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["10px", "0", "10px", "0"]
+   background:
+    color: 'navy'
+    # Text color (true=light, false=dark, or remove for the dynamic theme color). 
+    text_color_light: false  
 ---
 
