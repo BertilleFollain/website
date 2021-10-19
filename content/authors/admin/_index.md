@@ -36,4 +36,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a PhD student at ENS Ulm working under the supervision of Francis Bach and Umut Simsekli. Before that, I was a master's student at the University of Cambridge where I wrote a paper on high-dimensional changepoint estimation with missingness with Dr. Tengyao Wang and Pr. Richard Samworth.
+I am a PhD student at ENS Ulm working under the supervision of Francis Bach and Umut Simsekli. Before that, I was a master's student at the University of Cambridge where I wrote a paper on high-dimensional changepoint estimation with missingness with Dr. Tengyao Wang and Pr. Richard Samworth. More information about teaching, professional experiences and awards can be found in my CV.  
