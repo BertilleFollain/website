@@ -27,10 +27,10 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: 0001.jpg
+  filename: featured.jpg
 date: 2021-10-19T12:07:46.239Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
