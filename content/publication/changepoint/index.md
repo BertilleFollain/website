@@ -23,7 +23,7 @@ abstract: We propose a new method for changepoint estimation in
   MissInspect methodology is further demonstrated both on simulated data, and on
   an oceanographic data set covering the Neogene period.
 slides: ""
-url_pdf: ""
+url_pdf: https://doi.org/10.1111/rssb.12540
 publication_types:
   - "3"
 authors:
@@ -31,7 +31,7 @@ authors:
   - Tengyao Wang
   - Richard J. Samworth
 author_notes: []
-publication: arXiv 2108.01525
+publication: Journal of the Royal Statistical Society: Series B (Statistical Methodology), 84(3), 1023– 1055.
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -48,7 +48,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-date: 2021-10-19T12:07:46.239Z
+date: 2022
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
