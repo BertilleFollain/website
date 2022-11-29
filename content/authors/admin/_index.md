@@ -4,13 +4,10 @@ role: PhD student
 avatar_filename: avatar.jpeg
 bio: ""
 interests:
-  - Stochastic Optimisation
   - Statistical Learning
-  - Baking
+  - Finding Structure in Data
+  - Baking, Yoga, Permaculture
 social:
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/BertilleFollain
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=AgIef0kAAAAJ&hl=en&oi=ao
@@ -25,13 +22,13 @@ education:
   courses:
     - course: PhD in Applied Mathematics
       institution: ENS Ulm
-      year: 2021
+      year: 2021-Now
     - course: MASt in Mathematical Statistics
       institution: University of Cambridge
-      year: 2021
+      year: 2020-2021
     - course: Diplôme d'Ingénieur X2017
       institution: Ecole polytechnique
-      year: 2020
+      year: 2017-2021
 email: ""
 superuser: true
 highlight_name: true
