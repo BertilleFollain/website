@@ -9,7 +9,7 @@ authors:
   - Tengyao Wang
   - Richard J. Samworth
 author_notes: []
-publication: Journal of the Royal Statistical Society: Series B (Statistical Methodology), 84(3), 1023– 1055.
+publication: Journal of the Royal Statistical Society, Series B (Statistical Methodology), 84(3), 1023– 1055.
 summary: ""
 url_dataset: ""
 url_project: ""
