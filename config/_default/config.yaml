@@ -5,7 +5,7 @@
 
 title: Bertille Follain # Website name
 baseurl: 'https://bertillefollain.netlify.app/' # Website URL
-copyright: '@ 20222 Me' # Footer text, e.g. '© {year} Me'
+copyright: '© 2022 Me' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
