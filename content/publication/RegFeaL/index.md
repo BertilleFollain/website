@@ -6,7 +6,6 @@ publication_types:
   - "3"
 authors:
   - admin
-  - Umut Simsekli
   - Francis Bach
 author_notes: []
 publication: arXiv:2307.12754
