@@ -33,4 +33,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a 3rd year PhD student at ENS Ulm and INRIA Paris (Sierra Project-team) working under the supervision of Francis Bach and Umut Simsekli. Before that, I was a master's student at the University of Cambridge where I wrote a paper on high-dimensional changepoint estimation with missingness with Dr. Tengyao Wang and Pr. Richard Samworth. More information about teaching, professional experiences and awards can be found in my CV.  
+I am a 3rd year PhD student at ENS Ulm and INRIA Paris (Sierra Project-team) working under the supervision of Francis Bach. Before that, I was a master's student at the University of Cambridge where I wrote a paper on high-dimensional changepoint estimation with missingness with Dr. Tengyao Wang and Pr. Richard Samworth. More information about teaching, professional experiences and awards can be found in my CV.  
